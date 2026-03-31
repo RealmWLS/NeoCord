@@ -116,3 +116,4 @@ NeoCord **connects to the real Discord API**. It is **strictly for educational p
 ## License
 
 MIT License © 2026 RealmWLS
+**Created by RealmWLS**
